@@ -1,4 +1,4 @@
-# GeekText
+# API_Project
 Restful API project for CEN4010 RVDC RVCC 1225 summer '23 semester 
 
 # Getting started
